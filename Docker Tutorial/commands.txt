@@ -1,0 +1,13 @@
+docker images ---> to check the images
+docker ps ---> to check the running containers
+
+docker run -d -d port:port "name of image" --> run any docker file
+docker stop "container ID" ---> stop any container
+
+docker image rm -f "name" ---> delete the docker image
+
+docker build -t "username/filename" .    --> to built a docker file
+
+docker tag "username/filename" "username/new file name" --> it renames and copy the existing file 
+
+docker compose up ---> to run compose files
