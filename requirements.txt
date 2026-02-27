@@ -7,3 +7,6 @@ scikit-learn
 plotly
 Flask
 xgboost
+fastapi
+uvicorn
+pydantic
