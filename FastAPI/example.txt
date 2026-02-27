@@ -1,0 +1,17 @@
+# def insert_patient_data(name: str, age: int):
+#     if type(name) == str and type(age) == int:
+#         print(name)
+#         print(age)
+#         print("Data Inserted to DB")
+#     else:
+#         raise TypeError("Incorrect data Type")
+
+# def update_patient_data(name: str, age: int):
+#     if type(name) == str and type(age) == int:
+#         print(name)
+#         print(age)
+#         print("Data Updated to DB")
+#     else:
+#         raise TypeError("Incorrect data Type")
+
+# insert_patient_data("Navneet Singh", 25)
